@@ -68,9 +68,11 @@
 |---------|-------------|--------|
 | [Aura-Check](https://github.com/LuciferMorningStar2605/aura-check-ml) | AI Mental Wellness Predictor — Ensemble ML + Flask | 🏆 6th/267 @ Microsoft Innovate 2025 |
 | [Vidyutam](https://github.com/LuciferMorningStar2605/vidyutam-forecasting) | Electricity Demand Forecasting — XGBoost + Power BI | R² = 0.87 |
-| [DeepScan-19](https://github.com/LuciferMorningStar2605/Project_Covid_Detection_With_VGG-16) | COVID-19 X-Ray Classifier — VGG16 Transfer Learning | 92% Accuracy |
+| [DeepScan-19](https://github.com/LuciferMorningStar2605/deepscan19-covid-xray-classifier) | COVID-19 X-Ray Classifier — VGG16 Transfer Learning | 92% Accuracy |
+| [Health Advisor](https://github.com/LuciferMorningStar2605/health-conscious-advisor) | GenAI Food Intelligence — OCR + AI Chatbot | Generative AI |
 | [KolamGen](https://github.com/LuciferMorningStar2605/kolamgen-sih2025) | AI Kolam Pattern Generator — SIH 2025 | Heritage & Culture |
 | [Dog Breed Vision](https://github.com/LuciferMorningStar2605/dog-breed-vision-cnn) | CNN Dog Breed Classifier — Transfer Learning | Computer Vision |
+| [Book-Bros](https://github.com/LuciferMorningStar2605/book-bros) | Social Book Discovery Platform — Flask + MySQL | Full-Stack |
 | [Echo-Brief](https://github.com/LuciferMorningStar2605/echo-brief-nlp) | NLP Text Summarizer + Audio Output | Rule-based NLP |
 
 ---
