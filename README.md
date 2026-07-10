@@ -246,13 +246,13 @@ Environmental tech web app:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciferMorningStar2605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&ring_color=6E40C9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciferMorningStar2605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" />
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferMorningStar2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferMorningStar2605&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF4B4B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=C9D1D9" />
+  <img width="65%" src="https://streak-stats.demolab.com/?user=LuciferMorningStar2605&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF4B4B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=C9D1D9" />
 </div>
 
 ---
