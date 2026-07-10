@@ -246,9 +246,15 @@ Environmental tech web app:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciferMorningStar2605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuciferMorningStar2605&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuciferMorningStar2605&theme=tokyonight" height="180em" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferMorningStar2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuciferMorningStar2605&theme=tokyonight" height="180em" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuciferMorningStar2605&theme=tokyonight" height="180em" />
 </div>
 
 <div align="center">
