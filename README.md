@@ -1,132 +1,298 @@
-<h1 align="center">Hi, I'm Namish Rathy 👋</h1>
-<h3 align="center">AI/ML Engineer · Data Science · Bennett University'27</h3>
+<div align="center">
 
-<p align="center">
-  <b>🏆 Ranked 6th/267 @ Microsoft Innovate 2025 — AI/ML Track</b>
+<!-- Animated Typewriter Header -->
+<a href="https://github.com/LuciferMorningStar2605">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&width=720&height=70&lines=Hi%2C+I'm+Namish+Rathy+%F0%9F%91%8B;AI+%2F+ML+Engineer+%7C+LLM+Builder;Multi-Agent+AI+Systems+%F0%9F%A4%96;Microsoft+Innovate+2025+%E2%80%94+Rank+6+%2F+267+%F0%9F%8F%86;Rank+%231+CGPA+%E2%80%94+Bennett+University+%F0%9F%8E%93" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=LuciferMorningStar2605&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="profile views" />
+  &nbsp;
+  <a href="mailto:namishrathy26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-namishrathy26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/namish-rathy">
+    <img src="https://img.shields.io/badge/LinkedIn-Namish_Rathy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuciferMorningStar2605&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0" width="100%" />
+
+</div>
 
 ---
 
-### 🧠 About Me
+## 🏆 Achievements
 
-- 🎓 B.Tech CSE @ Bennett University | CGPA: 9.07/10 | University Rank 1
-- 🤖 Specialising in Machine Learning, Deep Learning & Data Science
-- 🚀 Building end-to-end ML pipelines — from raw data to deployed models
-- 🏅 4th Globally — Asia Innovate Mumbai | Top 20 — Smart India Hackathon 2024
-- 🌱 Currently exploring: LLMs, Transformers, and MLOps
-- 💬 Ask me about: Python, ML pipelines, Deep Learning, Data Science
-- 📫 Reach me at: namishrathy26@gmail.com
+<table align="center">
+  <tr>
+    <td align="center" width="60px">🥇</td>
+    <td><b>Rank 6 / 267</b> — Microsoft Innovate 2025, AI/ML Track</td>
+  </tr>
+  <tr>
+    <td align="center">🌍</td>
+    <td><b>4th Globally</b> — Asia Innovate Mumbai</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><b>Top 20 Nationally</b> — Smart India Hackathon 2024</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><b>CGPA 9.07 / 10 · University Rank #1</b> — B.Tech CSE @ Bennett University '27</td>
+  </tr>
+</table>
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 About Me
+
+```python
+namish = {
+    "role":        "AI/ML Engineer | LLM & Agentic AI Builder",
+    "university":  "Bennett University, B.Tech CSE '27",
+    "cgpa":        "9.07/10  —  Rank #1 in University",
+    "focus":       ["Multi-Agent AI", "LLMs", "Computer Vision", "FinTech AI"],
+    "building":    "Agentic AI systems with LangGraph + LangChain",
+    "research":    "Deepfake Detection — Multi-Modal Deep Learning",
+    "contact":     "namishrathy26@gmail.com",
+}
+```
+
+---
+
+## 🚀 Currently Building
+
+| Status | Project | Stack |
+|--------|---------|-------|
+| 🔨 **Active** | Agentic AI Tweet Generator — 5-node multi-agent pipeline | LangGraph · Groq · Streamlit |
+| 📄 **Writing** | Research Paper — Deepfake Detection (Spot The Fake) | PyTorch · OpenCV · LaTeX |
+| 💡 **Exploring** | Knot Finance AI v2 — Portfolio intelligence with RAG | LangChain · Supabase |
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**ML / AI**
+**AI / LLM / Agentic**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=for-the-badge&logo=graphql&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Data & Viz**
+**ML / Deep Learning**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Tools & Deployment**
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+## 🌟 Featured Projects
 
-| Project | Description | Result |
-|---------|-------------|--------|
-| [Aura-Check](https://github.com/LuciferMorningStar2605/aura-check-ml) | AI Mental Wellness Predictor — Ensemble ML + Flask | 🏆 6th/267 @ Microsoft Innovate 2025 |
-| [Vidyutam](https://github.com/LuciferMorningStar2605/vidyutam-forecasting) | Electricity Demand Forecasting — XGBoost + Power BI | R² = 0.87 |
-| [DeepScan-19](https://github.com/LuciferMorningStar2605/deepscan19-covid-xray-classifier) | COVID-19 X-Ray Classifier — VGG16 Transfer Learning | 92% Accuracy |
-| [Health Advisor](https://github.com/LuciferMorningStar2605/health-conscious-advisor) | GenAI Food Intelligence — OCR + AI Chatbot | Generative AI |
-| [KolamGen](https://github.com/LuciferMorningStar2605/kolamgen-sih2025) | AI Kolam Pattern Generator — SIH 2025 | Heritage & Culture |
-| [Dog Breed Vision](https://github.com/LuciferMorningStar2605/dog-breed-vision-cnn) | CNN Dog Breed Classifier — Transfer Learning | Computer Vision |
-| [Book-Bros](https://github.com/LuciferMorningStar2605/book-bros) | Social Book Discovery Platform — Flask + MySQL | Full-Stack |
-| [Echo-Brief](https://github.com/LuciferMorningStar2605/echo-brief-nlp) | NLP Text Summarizer + Audio Output | Rule-based NLP |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [LangGraph Tweet Generator](https://github.com/LuciferMorningStar2605/LangGraph-Tweet-Generator)
+**Multi-Agent AI System for High-Quality Tweets**
+
+Production-grade 5-node agentic pipeline:
+
+`Researcher` → `Writer` → `Critic` → `Refiner` → `Formatter`
+
+- Real-time web search + LLM generation
+- Iterative self-critique and refinement loop
+- Live Streamlit UI with structured output
+
+**Stack:** LangGraph · LangChain · Groq (Llama 3) · Streamlit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6E40C9?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_LLM-F55036?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 [Knot — Finance AI](https://github.com/LuciferMorningStar2605/Knot---Finance-AI)
+**Autonomous Finance Collections Agent** · [🌐 Live](https://knot-finance-ai.vercel.app)
+
+Enterprise-grade AI collections platform:
+
+- Autonomous 5-stage escalation engine
+- LLM-generated, tone-calibrated finance emails
+- 0% failure logic with Pydantic validation
+- Board-ready PDF/Excel/Word exports
+- Full Supabase audit trail
+
+**Stack:** Flask · LangChain · Groq · Supabase · Vercel
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Vercel](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 [Spot The Fake](https://github.com/LuciferMorningStar2605/Spot_The_Fake)
+**Deepfake Detection via Multi-Modal Deep Learning**
+
+High-impact CV research project:
+
+- Multi-modal deep learning architecture
+- Real vs. synthetic media classification
+- Research paper in progress
+- Socially critical, publication-track work
+
+**Stack:** Python · TensorFlow · PyTorch · OpenCV
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [Research Paper — ML](https://github.com/LuciferMorningStar2605/Research_Paper_Lucifer)
+**Academic Research in Machine Learning**
+
+Formal research contributions:
+
+- Rigorous experimental methodology
+- Novel architecture analysis & ablation
+- Publication-ready academic writing
+
+**Stack:** Python · Jupyter · Scikit-learn · LaTeX
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 [CIFAR-10 CNN v2](https://github.com/LuciferMorningStar2605/cifar10-cnn-v2)
+**Advanced CNN Image Classifier — Iterated Architecture**
+
+Deep learning evolution study:
+
+- Custom CNN with BatchNorm + Dropout + Augmentation
+- v1 → v2 architecture comparison with full ablation
+- End-to-end training analysis in Jupyter
+
+**Stack:** TensorFlow · Keras · Jupyter · Python
+
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💧 [AquaRestore](https://github.com/LuciferMorningStar2605/aquarestore)
+**Water Quality & Restoration Intelligence** · [🌐 Live](https://aquarestore.vercel.app)
+
+Environmental tech web app:
+
+- Water quality monitoring dashboard
+- Sensor data visualization
+- Clean responsive UI, zero-dependency frontend
+- Deployed & live on Vercel
+
+**Stack:** HTML · CSS · JavaScript · Vercel
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Vercel](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuciferMorningStar2605&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferMorningStar2605&theme=dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciferMorningStar2605&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&ring_color=6E40C9" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferMorningStar2605&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&langs_count=8" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferMorningStar2605&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuciferMorningStar2605&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuciferMorningStar2605&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF4B4B&currStreakLabel=6E40C9&sideLabels=C9D1D9&dates=C9D1D9" />
+</div>
 
 ---
 
-### 🏅 Achievements
+## 📈 Contribution Activity
 
-- 🥇 6th / 267 teams — Microsoft Innovate 2025 (AI/ML)
-- 🎓 University Rank 1 — CGPA 9.07/10
-- 🌍 4th Globally — Asia Innovate, Mumbai
-- 🇮🇳 University Top 20 — Smart India Hackathon 2024
-- 👨‍💼 Head, GeeksForGeeks BU — AI/ML sessions for 200+ students
-- 🌱 VP, Anayaat NGO — Directed 50+ volunteers
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciferMorningStar2605&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF4B4B&area=true&area_color=6E40C9" width="100%" />
+</div>
 
 ---
 
-### 💡 Random Dev Quote
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-### 🔗 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/namish-rathy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:namishrathy26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/LuciferMorningStar2605" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Namish_Rathy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namish-rathy)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-namishrathy26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namishrathy26@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-LuciferMorningStar2605-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuciferMorningStar2605)
+
+<br/>
+
+> *"Building AI systems that don't just work — they think."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
